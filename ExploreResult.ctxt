@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ExploreResult
+comment1.params=i\ ip\ confirm\ cancel
+comment1.target=ExploreResult(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+comment3.params=i
+comment3.target=void\ setInfo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getImagePath()
+comment5.params=i
+comment5.target=void\ setImagePath(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getConfirmCommand()
+comment7.params=i
+comment7.target=void\ setConfirmCommand(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getCancelCommand()
+comment9.params=i
+comment9.target=void\ setCancelCommand(java.lang.String)
+numComments=10

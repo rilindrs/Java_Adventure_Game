@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ClassDescriptionPanel
+comment1.params=parentFrame\ title\ imageFilepath\ description
+comment1.target=ClassDescriptionPanel(MainFrame,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

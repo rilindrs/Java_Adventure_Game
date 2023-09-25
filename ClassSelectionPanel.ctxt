@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClassSelectionPanel
+comment1.params=parentFrame
+comment1.target=ClassSelectionPanel(MainFrame)
+comment2.params=
+comment2.target=java.lang.String\ getCharacterName()
+comment3.params=
+comment3.target=void\ clearNameInput()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

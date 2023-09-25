@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CharacterManager
+comment1.params=
+comment1.target=Character\ getCurrentCharacter()
+comment2.params=selectedClass\ selectedName
+comment2.target=void\ createCharacter(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ saveProgress()
+comment4.params=
+comment4.target=boolean\ getSaveData()
+comment5.params=
+comment5.target=void\ deleteSaveData()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Goblin
+comment1.params=
+comment1.target=Goblin()
+comment2.params=level
+comment2.target=Goblin(int)
+comment3.params=
+comment3.target=void\ setStats()
+comment4.params=
+comment4.target=void\ setAbilities()
+comment5.params=
+comment5.target=java.lang.String\ getClassName()
+comment6.params=
+comment6.target=int\ getBaseExperience()
+numComments=7
